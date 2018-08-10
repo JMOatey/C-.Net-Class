@@ -1,0 +1,15 @@
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\bin\Debug\DeadOfWinterWPF.exe.config
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\bin\Debug\DeadOfWinterWPF.exe
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\bin\Debug\DeadOfWinterWPF.pdb
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\DeadOfWinterWPF.csprojAssemblyReference.cache
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\MainWindow.g.cs
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\App.g.cs
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\DeadOfWinterWPF_MarkupCompile.cache
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\DeadOfWinterWPF_MarkupCompile.lref
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\MainWindow.baml
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\DeadOfWinterWPF.g.resources
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\DeadOfWinterWPF.Properties.Resources.resources
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\DeadOfWinterWPF.csproj.GenerateResource.cache
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\DeadOfWinterWPF.csproj.CoreCompileInputs.cache
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\DeadOfWinterWPF.exe
+C:\Users\John.Oatey\Documents\PDT\School\DeadOfWinterWPF\DeadOfWinterWPF\obj\Debug\DeadOfWinterWPF.pdb
